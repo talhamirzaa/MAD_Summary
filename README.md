@@ -12,4 +12,4 @@ This repository consists of all the files related to the MAD_PWA Lab along with 
 | Exp 05         | Firebase Authentication Service | [Link](https://github.com/talhamirzaa/MAD_Exp_05) |
 | Exp 06         | Routes and Consume API          | [Link](https://github.com/talhamirzaa/MAD_Exp_06)      |
 | Exp 07         | Navigation Drawer               | [Link](https://github.com/talhamirzaa/MAD_Exp_07)      |
-| Mini Project   | Chat Application        | [Link](https://github.com/talhamirzaa/MAD_mini_Project)                                                    |
+| Mini Project   | Chat Application(one -to-one and group chat)        | [Link](https://github.com/talhamirzaa/MAD_mini_Project)                                       |
